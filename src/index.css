@@ -129,3 +129,9 @@ h1 {
 .search button:hover {
   background-color: #0056b3;
 }
+
+@media (max-width:436px) {
+  .search button  {
+     margin-top: 1rem;
+  }
+}
